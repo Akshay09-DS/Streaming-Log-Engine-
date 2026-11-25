@@ -37,8 +37,8 @@ Log_engine/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/<Akshay09-DS>/<Streaming-Log-Engine>.git
+   cd <Streaming-Log-Engine>
    ```
 
 2. **Run the pipeline:**
